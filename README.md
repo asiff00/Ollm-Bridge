@@ -9,7 +9,7 @@ Ollm Bridge is a simple tool designed to streamline the process of accessing Oll
 ## How do I use it?
 1. Download the desired version of Ollm Bridge from our repository or release page.
 2. Run the executable as an administrator (right-click > Run as administrator) or execute the PowerShell script in PowerShell as an administrator.
-3. After completion, set your LMStudio Models Directory to `%userprofile%\publicmodels`.
+3. After completion, set your LMStudio Models Directory to Your Ollama Models Directory. (e.g. 'C:\Users\USER\.ollama\models')
 
 ## Credits
 * Thanks to [Matt Williams](https://github.com/technovangelist) for [inspiration](https://youtu.be/UfhXbwA5thQ?si=ML8x01C26kNStTJw)
